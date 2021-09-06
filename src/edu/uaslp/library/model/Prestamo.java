@@ -28,7 +28,7 @@ public class Prestamo
         this.books = books;
     }
 
-    public LocalDateTime getDateHora() {
+    public LocalDateTime getDateHour() {
         return dateHora;
     }
 
